@@ -13,14 +13,14 @@ También me resulta muy interesante el desarrollo backend, por lo que estoy expa
 
 ## Educación y Formación 📚
 
--<code>2015</code> **Ingeniero Electrónico** Especialización en Automatización Industrial.
--<code>2023</code> **Desarrollador FrontEnd-React** [Certificado](./assets/certificado-react.png)
+- <code>2015</code> **Ingeniero Electrónico** Especialización en Automatización Industrial.
+- <code>2023</code> **Desarrollador FrontEnd-React** [Certificado](./assets/certificado-react.png)
 -<code>2024</code> **Desarrollador BackEnd** <!--[Certificado](./assets/certificado-backend.png)-->Actualmente cursando en CoderHouse, enfocado en Express.js
 
 ## Otros cursos realizados 📚
 
--<code>2022</code> **Python inicial**: Adquirí habilidades en Python para ampliar mi conjunto de herramientas en el desarrollo de software. --> [Certificado](./assets/certificado-python.png)
--<code>2022</code> **Industria 4.0**: Exploré los conceptos clave de la Industria 4.0 y cómo están transformando la fabricación y la automatización.
+- <code>2022</code> **Python inicial**: Adquirí habilidades en Python para ampliar mi conjunto de herramientas en el desarrollo de software. --> [Certificado](./assets/certificado-python.png)
+- <code>2022</code> **Industria 4.0**: Exploré los conceptos clave de la Industria 4.0 y cómo están transformando la fabricación y la automatización.
 
 ## Información de contacto! <code><img alt="Logo Gmail" src="./assets/gmail.svg" height="14px" /></code>
 
@@ -31,16 +31,18 @@ También me resulta muy interesante el desarrollo backend, por lo que estoy expa
 <!-- **My portafolio (en desarrollo)**: [Portafolio](https://myportfolio-eta-black.vercel.app/) -->
 
 
-## Estadísticas 📊
-
-![Augusto's Github stats](https://github-readme-stats.vercel.app/api?username=prados91&show_icons=true&hide_border=true)
- 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=prados91&label=Profile%20views&color=0e75b6&style=flat" alt="XXXXXXXXXXXXX" /></p>
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prados91" alt="XXXXXXXXXXXXX" /></a> </p>
+## Tecnologías y estadísticas 📊
+<code><img alt="Logo HTML5" src="./assets/html5.svg" height="30px" /></code>
+<code><img alt="Logo CSS3" src="./assets/css.svg" height="30px" /></code>
+<code><img alt="Logo SASS" src="./assets/sass.svg" height="30px" /></code>
+<code><img alt="Logo JavaScript" src="./assets/javascript.svg" height="30px" /></code>
+<code><img alt="Logo Bootstrap" src="./assets/bootstrap.svg" height="30px" /></code>
+<code><img alt="Logo React" src="./assets/react.svg" height="30px" /></code>
+<code><img alt="Logo Node" src="./asset/nodejs.svg" height="30px" /></code>
+<code><img alt="Logo Mongo" src="./assets/mongo.svg" height="30px" /></code>
+<code><img alt="Logo Express" src="./assets/expressJs.svg" height="30px"></code>
 
 ![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=prados91&show_icons=true&locale=es&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prados91&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 ¡Gracias por visitar mi perfil!
