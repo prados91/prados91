@@ -19,17 +19,15 @@ También me resulta muy interesante el desarrollo backend, por lo que estoy expa
 
 ## Otros cursos realizados 📚
 
-- <code>2022</code> **Python inicial**: Adquirí habilidades en Python para ampliar mi conjunto de herramientas en el desarrollo de software. --> [Certificado](./assets/certificado-python.png)
-- <code>2022</code> **Industria 4.0**: Exploré los conceptos clave de la Industria 4.0 y cómo están transformando la fabricación y la automatización.
+- <code>2022</code> **Python inicial**: Ampliación de mis herramientas para el desarrollo de software. [Certificado](./assets/certificado-python.png)
 
 ## Información de contacto! <code><img alt="Logo Gmail" src="./assets/gmail.svg" height="14px" /></code>
 
 ¡Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje! Si quieres hablar sobre proyectos interesantes, oportunidades laborales ¡no dudes en contactarme!
 
-- **Email**[augustoprados91@gmail.com](mailto:augustoprados91@gmail.com)
-- **LinkedIn**[Mi Linkedin](https://www.linkedin.com/in/apradoslink/)
+- **Email** [augustoprados91@gmail.com](mailto:augustoprados91@gmail.com)
+- **LinkedIn** [Mi Linkedin](https://www.linkedin.com/in/apradoslink/)
 <!-- - **My portafolio (en desarrollo)**: [Portafolio](https://myportfolio-eta-black.vercel.app/) -->
-
 
 ## Tecnologías y estadísticas 📊
 <code><img alt="Logo HTML5" src="./assets/html5.svg" height="30px" /></code>
@@ -38,11 +36,10 @@ También me resulta muy interesante el desarrollo backend, por lo que estoy expa
 <code><img alt="Logo JavaScript" src="./assets/javascript.svg" height="30px" /></code>
 <code><img alt="Logo Bootstrap" src="./assets/bootstrap.svg" height="30px" /></code>
 <code><img alt="Logo React" src="./assets/react.svg" height="30px" /></code>
-<code><img alt="Logo Node" src="./asset/nodejs.svg" height="30px" /></code>
+<code><img alt="Logo Node" src="./assets/nodejs.svg" height="30px" /></code>
 <code><img alt="Logo Mongo" src="./assets/mongo.svg" height="30px" /></code>
 <code><img alt="Logo Express" src="./assets/expressJs.svg" height="30px"></code>
 
 ![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=prados91&show_icons=true&locale=es&layout=compact)
-
 
 ¡Gracias por visitar mi perfil!
