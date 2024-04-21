@@ -15,7 +15,7 @@ También me resulta muy interesante el desarrollo backend, por lo que estoy expa
 
 - <code>2015</code> **Ingeniero Electrónico** Especialización en Automatización Industrial.
 - <code>2023</code> **Desarrollador FrontEnd-React** [Certificado](./assets/certificado-react.png)
--<code>2024</code> **Desarrollador BackEnd** <!--[Certificado](./assets/certificado-backend.png)-->Actualmente cursando en CoderHouse, enfocado en Express.js
+- <code>2024</code> **Desarrollador BackEnd** <!--[Certificado](./assets/certificado-backend.png)-->Actualmente cursando en CoderHouse, enfocado en Express.js
 
 ## Otros cursos realizados 📚
 
@@ -28,7 +28,7 @@ También me resulta muy interesante el desarrollo backend, por lo que estoy expa
 
 - **Email**[augustoprados91@gmail.com](mailto:augustoprados91@gmail.com)
 - **LinkedIn**[Mi Linkedin](https://www.linkedin.com/in/apradoslink/)
-<!-- **My portafolio (en desarrollo)**: [Portafolio](https://myportfolio-eta-black.vercel.app/) -->
+<!-- - **My portafolio (en desarrollo)**: [Portafolio](https://myportfolio-eta-black.vercel.app/) -->
 
 
 ## Tecnologías y estadísticas 📊
