@@ -27,7 +27,7 @@ También me resulta muy interesante el desarrollo backend, por lo que estoy expa
 
 - **Email** [augustoprados91@gmail.com](mailto:augustoprados91@gmail.com)
 - **LinkedIn** [Mi Linkedin](https://www.linkedin.com/in/apradoslink/)
-<!-- - **My portafolio (en desarrollo)**: [Portafolio](https://myportfolio-eta-black.vercel.app/) -->
+- **My portafolio(en desarrollo)**: [Portafolio](https://myportfolio-eta-black.vercel.app/)
 
 ## Tecnologías y estadísticas 📊
 <code><img alt="Logo HTML5" src="./assets/html5.svg" height="30px" /></code>
